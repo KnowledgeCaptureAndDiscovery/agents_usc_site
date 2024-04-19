@@ -1,0 +1,14 @@
+overflowtext="",overflowoffset=9,leftadjust,compwidth=9
+Date:formatfield="%<(nodate{text})%{text}%|%(pretty{text})%>"
+Subject:
+From:
+To:
+Cc:
+Reply-To:
+Resent-By:
+Forwarded:
+In-Reply-To:
+:--------
+:
+body:nocomponent,overflowtext=,overflowoffset=0,noleftadjust,clearscreen
+

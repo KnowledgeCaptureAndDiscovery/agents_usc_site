@@ -1,0 +1,3 @@
+:
+body:component="> ",compwidth=0
+;body:component="> ",compwidth=0,formatfield="%<(null)> %|%(putstr)%>"
